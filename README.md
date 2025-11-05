@@ -7,7 +7,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | # | Problem | Difficulty | TypeScript | Rust |
 |:--:|:------------:|:--:|:--:|:--:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [✓](./two-sum/solution.ts) | x | 
-
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [✓](./add-two-numbers/solution.ts) | x |
 
 ## Note
 
