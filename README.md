@@ -9,6 +9,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [✓](./two-sum/solution.ts) | x | 
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [✓](./add-two-numbers/solution.ts) | x |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [✓](./longest-substring-without-repeating-characters/solution.ts) | x |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [✓](./median-of-two-sorted-arrays/solution.ts) | x |
 
 ## Note
 
