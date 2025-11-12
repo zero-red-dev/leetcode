@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [✓](./add-two-numbers/solution.ts) | x |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [✓](./longest-substring-without-repeating-characters/solution.ts) | x |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [✓](./median-of-two-sorted-arrays/solution.ts) | x |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Median | [✓](./longest-palindromic-substring/solution.ts) | x |
 
 ## Note
 
