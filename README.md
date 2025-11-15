@@ -12,6 +12,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [✓](./median-of-two-sorted-arrays/solution.ts) | x |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Median | [✓](./longest-palindromic-substring/solution.ts) | x |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Median | [✓](./zigzag-conversion/solution.ts) | x |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Median | [✓](./reverse-integer/solution.ts) | x |
 
 ## Note
 
