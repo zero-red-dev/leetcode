@@ -14,6 +14,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Median | [✓](./zigzag-conversion/solution.ts) | x |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Median | [✓](./reverse-integer/solution.ts) | x |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Median | [✓](./string-to-integer-atoi/solution.ts) | x |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [✓](./palindrome-number/solution.ts) | x |
 
 ## Note
 
