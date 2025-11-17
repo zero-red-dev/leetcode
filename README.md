@@ -13,6 +13,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Median | [✓](./longest-palindromic-substring/solution.ts) | x |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Median | [✓](./zigzag-conversion/solution.ts) | x |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Median | [✓](./reverse-integer/solution.ts) | x |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Median | [✓](./string-to-integer-atoi/solution.ts) | x |
 
 ## Note
 
