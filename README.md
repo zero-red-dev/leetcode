@@ -10,13 +10,13 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [✓](./add-two-numbers/solution.ts) | x |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [✓](./longest-substring-without-repeating-characters/solution.ts) | x |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [✓](./median-of-two-sorted-arrays/solution.ts) | x |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Median | [✓](./longest-palindromic-substring/solution.ts) | x |
-| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Median | [✓](./zigzag-conversion/solution.ts) | x |
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Median | [✓](./reverse-integer/solution.ts) | x |
-| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Median | [✓](./string-to-integer-atoi/solution.ts) | x |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [✓](./longest-palindromic-substring/solution.ts) | x |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [✓](./zigzag-conversion/solution.ts) | x |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [✓](./reverse-integer/solution.ts) | x |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [✓](./string-to-integer-atoi/solution.ts) | x |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [✓](./palindrome-number/solution.ts) | x |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [✓](./regular-expression-matching/solution.ts) | x |
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Hard | [✓](./container-with-most-water/solution.ts) | x |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [✓](./container-with-most-water/solution.ts) | x |
 
 ## Note
 
