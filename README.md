@@ -16,6 +16,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Median | [✓](./string-to-integer-atoi/solution.ts) | x |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [✓](./palindrome-number/solution.ts) | x |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [✓](./regular-expression-matching/solution.ts) | x |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Hard | [✓](./container-with-most-water/solution.ts) | x |
 
 ## Note
 
