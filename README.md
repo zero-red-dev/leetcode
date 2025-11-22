@@ -18,6 +18,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [✓](./regular-expression-matching/solution.ts) | x |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [✓](./container-with-most-water/solution.ts) | x |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [✓](./integer-to-roman/solution.ts) | x |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [✓](./roman-to-integer/solution.ts) | x |
 
 ## Note
 
