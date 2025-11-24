@@ -20,6 +20,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [✓](./integer-to-roman/solution.ts) | x |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [✓](./roman-to-integer/solution.ts) | x |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [✓](./longest-common-prefix/solution.ts) | x |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [✓](./3sum/solution.ts) | x |
 
 ## Note
 
