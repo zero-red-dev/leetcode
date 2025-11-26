@@ -22,6 +22,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [✓](./longest-common-prefix/solution.ts) | x |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [✓](./3sum/solution.ts) | x |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [✓](./3sum-closest/solution.ts) | x |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [✓](./letter-combinations-of-a-phone-number/solution.ts) | x |
 
 ## Note
 
