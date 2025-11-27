@@ -23,6 +23,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [✓](./3sum/solution.ts) | x |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [✓](./3sum-closest/solution.ts) | x |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [✓](./letter-combinations-of-a-phone-number/solution.ts) | x |
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | [✓](./4sum/solution.ts) | x |
 
 ## Note
 
