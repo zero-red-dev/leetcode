@@ -28,6 +28,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [✓](./valid-parentheses/solution.ts) | x |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [✓](./merge-two-sorted-lists/) | x |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [✓](./generate-parentheses/solution.ts) | x |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [✓](./merge-k-sorted-lists/solution.ts) | x |
 
 ## Note
 
