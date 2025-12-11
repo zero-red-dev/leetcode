@@ -31,6 +31,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [✓](./merge-k-sorted-lists/solution.ts) | x |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [✓](./swap-nodes-in-pairs/solution.ts) | x |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [✓](./remove-duplicates-from-sorted-array/solution.ts) | x |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [✓](./remove-element/solution.ts) | x |
 
 ## Note
 
