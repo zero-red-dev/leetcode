@@ -30,6 +30,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [✓](./generate-parentheses/solution.ts) | x |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [✓](./merge-k-sorted-lists/solution.ts) | x |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [✓](./swap-nodes-in-pairs/solution.ts) | x |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | Hard | [✓](./reverse-nodes-in-k-group/solution.ts) | x |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [✓](./remove-duplicates-from-sorted-array/solution.ts) | x |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [✓](./remove-element/solution.ts) | x |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [✓](./find-the-index-of-the-first-occurrence-in-a-string/solution.ts) | x |
