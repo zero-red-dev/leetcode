@@ -34,6 +34,7 @@ This repository contains my solutions to various LeetCode problems in multiple p
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [✓](./remove-duplicates-from-sorted-array/solution.ts) | x |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [✓](./remove-element/solution.ts) | x |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [✓](./find-the-index-of-the-first-occurrence-in-a-string/solution.ts) | x |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [✓](./divide-two-integers/solution.ts) | x |
 
 ## Note
 
